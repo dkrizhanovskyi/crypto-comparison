@@ -19,7 +19,7 @@ This project aims to compare classical and quantum cryptography. We will examine
 To get started, clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/crypto-comparison.git
+git clone https://github.com/dkkrizhanovskyi/crypto-comparison.git
 cd crypto-comparison
 ```
 
