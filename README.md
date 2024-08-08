@@ -54,6 +54,11 @@ git clone https://github.com/dkrizhanovskyi/crypto-comparison.git
 cd crypto-comparison
 ```
 
+## Related Projects
+
+- [Quantum Computing Tutorials](https://github.com/dkrizhanovskyi/quantum-computing-tutorials): A collection of tutorials and examples on quantum computing, covering various quantum algorithms and concepts.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
